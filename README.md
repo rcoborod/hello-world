@@ -14,5 +14,5 @@ Instead of using English to French translation, I'll use sp500 historical prices
 First cells will preprocess pandas dataframe before it will be wrapped by a tf.data.Dataset.
 
 
-first file will be gspc_preprodcessing.py
+first file will be gspc_preprocessing.py
 
