@@ -1,9 +1,8 @@
 # hello-world
 My experiments with seq2seq, lstm's , encoders, decoders and tensorflow dataframes
 
-My experiments with seq2seq, lstm's , encoders, decoders and tensorflow dataframes
-
-I'm trying to take advantage of tensorflow.data.Dataset.batch and window for saving memory and automate data transformation . Before trying attention and transformer models, i'm trying to get the best possible acurracy from encoder decoder with lstm based newral network.
+I'm trying to take advantage of tensorflow.data.Dataset.batch and window for saving memory and automate data transformation .
+Before trying attention and transformer models, i'm trying to get the best possible acurracy from encoder decoder with lstm based newral network.
 
 
 I'm trying to take advantage of tensorflow.data.Dataset.batch and window for saving memory and automate data transformation .
